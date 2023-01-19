@@ -1,5 +1,7 @@
 # Bash script to check if apache2 is running.
 
+![image](https://user-images.githubusercontent.com/117186369/213523922-6a6b34bd-e4a0-4537-bfb4-a85cad2efcf3.png)
+
 The completed script prints the date.
 
 Then checks and prints the file location if it is found.
